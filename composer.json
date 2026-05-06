@@ -1,5 +1,5 @@
 {
-    "name": "dream/auto-make",
+    "name": "dreamboycx/auto-make",
     "description": "base thinkphp6 auto create files",
     "type": "library",
     "require": {
