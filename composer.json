@@ -1,0 +1,15 @@
+{
+    "name": "dream/auto-make",
+    "description": "base thinkphp6 auto create files",
+    "type": "library",
+    "require": {
+        "topthink/framework": "^6.0",
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dream\\AutoMake\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
