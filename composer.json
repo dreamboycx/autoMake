@@ -2,6 +2,7 @@
     "name": "dreamboycx/auto-make",
     "description": "base thinkphp6 auto create files",
     "type": "think-extend",
+    "version": "1.0.0",
     "require": {
         "topthink/framework": "^6.0",
         "php": "^7.2"
@@ -17,7 +18,7 @@
                 "dreamboycx\\AutoMakeService"
             ],
             "config": {
-                "myext": "config/autoMake.php"
+                "autoMake": "config/autoMake.php"
             }
         }
     }
