@@ -8,8 +8,17 @@
     },
     "autoload": {
         "psr-4": {
-            "Dreamboycx\\AutoMake\\": "src/"
+            "dreamboycx\\AutoMake\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "extra": {
+        "think": {
+            "services": [
+                "dreamboycx\\AutoMakeService"
+            ],
+            "config": {
+                "myext": "config/autoMake.php"
+            }
+        }
+    }
 }
