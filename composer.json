@@ -1,7 +1,7 @@
 {
     "name": "dreamboycx/auto-make",
     "description": "base thinkphp6 auto create files",
-    "type": "library",
+    "type": "think-extend",
     "require": {
         "topthink/framework": "^6.0",
         "php": "^7.2"
