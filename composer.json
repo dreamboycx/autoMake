@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dream\\AutoMake\\": "src/"
+            "Dreamboycx\\AutoMake\\": "src/"
         }
     },
     "minimum-stability": "dev"
